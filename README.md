@@ -10,7 +10,12 @@ DhdBank would change the health system.
 
 ### Decentralized Storage
 
+Traditional  and Centralized health data storage companies have a central point which can fail, resulting in a system breakdown and client health data loss. With its decentralized database engine, DhdBank would safely store encrypted client health data in fragments over the network without any central point of failure.
+
 ### Scalability
+
+Proof-of-Work protocols are relatively slow, expensive, unscalable and environmentally unfriendly. DhdBank would use the Cosmos Tendermint  BFT consensus engine to power its Delegated Proof-of-Stake protocol.
+
 
 ### Usability
 
