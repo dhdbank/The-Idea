@@ -19,7 +19,12 @@ Proof-of-Work protocols are relatively slow, expensive, unscalable and environme
 
 ### Usability
 
+Most block chain Dapps are complex and difficult to use, preventing real world adoption. Using the Cosmos SDK, DhdBank Dapps would be user friendly with an easy-to-use interface.
+
+
 ### Cost Efficient
+
+Traditional health data storage companies have very expensive data storage subscription plan. This would be replaced by very inexpensive and affordable storage subscription packages using DhdBank.
 
 ## CONTRIBUTORS
 
