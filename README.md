@@ -9,7 +9,7 @@ Check out our white paper for more information https://dhdbank.yolasite.com/ws/m
 
 
 
-## KEY FEATURES
+## DhdBank Architecture
 
 ### Decentralized Storage
 
