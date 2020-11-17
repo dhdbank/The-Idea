@@ -6,9 +6,16 @@ Instead of owning a storage cloud, DhdBank would provide cheap, efficient and op
 DhdBank would change the health system.
 
 
-# KEY FEATURES
+## KEY FEATURES
 
+### Decentralized Storage
 
-Contributors
+### Scalability
+
+### Usability
+
+### Cost Efficient
+
+## CONTRIBUTORS
 
 https://gitcoin.co/ini-tech
